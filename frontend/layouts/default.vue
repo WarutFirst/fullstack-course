@@ -6,5 +6,5 @@
     </main>
 
     <!-- TODO: 2. นำ Footer มาใช้ -->
-    <!-- <TheFooter /> -->
+    <TheFooter />
 </template>
